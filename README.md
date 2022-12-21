@@ -1,5 +1,5 @@
 # Custom Logger
-	
+This custom logger includes moment & chalk. \nwhich will give you a timestamp as well as different color options when logging!
 
 ## Technologies
  [Moment](https://momentjs.com/)<br/>
