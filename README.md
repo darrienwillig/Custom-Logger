@@ -23,7 +23,7 @@ At the top of your file:
 
 Below will be examples on different types of colors:
 
-    log(x, 'error) -> Red
+    log(x, 'error') -> Red
     log(x, 'success') -> Green
     log(x, 'info') -> Blue
     log(x, 'yellow') -> Yellow
